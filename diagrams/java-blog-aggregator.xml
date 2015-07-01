@@ -2,7 +2,7 @@
 	<entity>
 		<entity-name>com.epam.dakhniy.jba.entity.User</entity-name>
 		<entity-width>120</entity-width>
-		<entity-height>206</entity-height>
+		<entity-height>226</entity-height>
 		<entity-X-Coordinate>210</entity-X-Coordinate>
 		<entity-Y-Coordinate>170</entity-Y-Coordinate>
 		<primary-collapsed>false</primary-collapsed>
